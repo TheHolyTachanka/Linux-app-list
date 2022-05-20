@@ -18,6 +18,17 @@ open this \
 click this \
 etc.
 
+## UNINSTALLATION
+run some command
+```
+some command
+```
+run another command
+```
+another command
+```
+
+
 ## Maintainers
 - [YOUR-NAME](https://github.com/YOUR-NAME)
 - [OTHER-NAME](https://github.com/OTHER-NAME)
