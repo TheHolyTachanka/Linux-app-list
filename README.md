@@ -7,7 +7,7 @@ A list of popular Windows apps that run on Linux, inspired by protondb.
 ## List
 ✅ = Fully working \
 👌 = Partially working \
-❌ = Borked
+❌ = Runs but most important parts dont work
 ______
 
 👌 Photoshop --- [guide](https://theholytachanka.github.io/Linux-app-list/Guides/Photoshop) 
