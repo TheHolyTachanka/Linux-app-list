@@ -30,4 +30,3 @@ Example:
 ✅ Photoshop -- [guide](https://theholytachanka.github.io/Linux-app-list/Guides/Photoshop/)
 ```
 Then write a guide on how to install it in `Guides/` folder
->>>>>>> 167b1ac (added photoshop)
