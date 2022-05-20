@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/TheHolyTachanka/Linux-app-list/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +36,37 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+=======
+# Linux-app-list
+A list of popular Windows apps that run on Linux, inspired by protondb.
+
+- [List]()
+- [Contributing]()
+
+## List
+✅ = Fully working \
+👌 = Partially working \
+❌ = Borked
+______
+
+- 👌 Photoshop -- [guide](https://theholytachanka.github.io/Linux-app-list/Guides/Photoshop/)
+
+
+
+
+
+
+
+## Contributing
+
+Just make a PR with the app
+Template:
+```
+[TYPE] [name of app] -- [guide](Link for guide)
+```
+Example:
+```
+✅ Photoshop -- [guide](https://theholytachanka.github.io/Linux-app-list/Guides/Photoshop/)
+```
+Then write a guide on how to install it in `Guides/` folder
+>>>>>>> 167b1ac (added photoshop)
