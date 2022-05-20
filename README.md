@@ -10,7 +10,8 @@ A list of popular Windows apps that run on Linux, inspired by protondb.
 ❌ = Borked
 ______
 
-- 👌 Photoshop -- [guide](https://theholytachanka.github.io/Linux-app-list/Guides/Photoshop/)
+👌 Photoshop -- [guide](https://theholytachanka.github.io/Linux-app-list/Guides/Photoshop/) 
+
 
 
 
