@@ -1,4 +1,3 @@
-CLI VERSION: \
 Requirements:
 - Git 
 - A active photoshop subscription
@@ -11,6 +10,7 @@ Requirements:
 - All R/W rights on your home folder and the installer folder
 - Vulkan capable GPU or APU
 
+## CLI VERSION: 
 
 run this to clone the repo
 ```
@@ -26,4 +26,16 @@ then run the installer
 ./installer.sh
 ```
 
+## UNINSTALLATION
+Run the uninstall script
+```
+./uninstaller.sh
+```
 
+
+## Maintainers
+- [TheHolyTachanka](https://github.com/TheHolyTachanka)
+
+## Sources
+Github: https://github.com/MiMillieuh/Photoshop-CC2022-Linux \
+Website: https://www.adobe.com/products/photoshop.html
