@@ -28,6 +28,6 @@ Template:
 ```
 Example:
 ```
-✅ Photoshop -- [guide](https://theholytachanka.github.io/Linux-app-list/Guides/Photoshop/)
+✅ Photoshop -- [guide](https://theholytachanka.github.io/Linux-app-list/Guides/Photoshop)
 ```
 Then write a guide on how to install it in `Guides/` folder
