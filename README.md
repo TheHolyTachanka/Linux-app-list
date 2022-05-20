@@ -30,4 +30,4 @@ Example:
 ```
 ✅ Photoshop -- [guide](https://theholytachanka.github.io/Linux-app-list/Guides/Photoshop)
 ```
-Then write a guide for installation in `Guides/` please use the [Teamplate](https://github.com/TheHolyTachanka/Linux-app-list/blob/main/Guides/Template.md)
+Then write a guide for installation in `Guides/` please use the [Template](https://github.com/TheHolyTachanka/Linux-app-list/blob/main/Guides/Template.md)
